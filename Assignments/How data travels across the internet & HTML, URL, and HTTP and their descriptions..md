@@ -1,6 +1,6 @@
-#  how data travels across the internet & HTML, URL, and HTTP and their descriptions
+#  How data travels across the internet & HTML, URL, and HTTP and their descriptions.
 
-### 1. how data travels across the internet
+### 1. How data travels across the internet
 ![Data Travels Across the Internet](./how%20data%20transfers%20accross%20the%20inrernet.png)
 
 ### 2. HTML, URL, and HTTP and their descriptions
